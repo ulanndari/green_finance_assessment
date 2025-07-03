@@ -63,7 +63,7 @@ Meskipun banyak proyek hijau digagas, tantangannya adalah:
 - 📉 Data tersebar dan tidak terintegrasi
 - 🤔 Tidak ada sistem analitik untuk pemilihan proyek terbaik
 
-> Oleh karena itu, kami membangun **alat analisis berbasis Python** yang dapat mengolah kelima dimensi data tersebut secara otomatis.
+ Oleh karena itu, kami membangun **alat analisis berbasis Python** yang dapat mengolah kelima dimensi data tersebut secara otomatis.
 
 ---
 
@@ -85,6 +85,8 @@ Setiap soal menunjukkan analisis data konkret:
 - Soal 6: Fungsi modular dengan error handling pembagian nol
 - Soal 7: Rata-rata output energi dengan pengecekan data hilang
 - Bonus ML: Prediksi daya tarik investasi proyek baru
+
+---
 
 ## 🧪 Metode yang Digunakan
 
