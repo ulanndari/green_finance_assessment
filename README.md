@@ -2,10 +2,7 @@
 
 ## green_finance_assessment
 
-Laporan Tugas Analisis Green Finance
-Program ECO Techno Leaders – Premium Batch 1, Kelompok 1
-
-🚀 Selamat Datang di Petualangan Data Hijau Kami! 🌿
+🚀 Selamat Datang di perjalanan analisis Data Hijau Kami! 🌿
 Halo! Kami dari Kelompok 1 - Premium Class Batch 1 siap mengajak Anda menjelajahi dunia Green Finance dengan bantuan Python. Dengan semangat kolaboratif dan penuh rasa ingin tahu, kami menyelami data dari proyek-proyek energi terbarukan untuk membantu membangun masa depan yang lebih hijau dan berkelanjutan.
 
 👥 Anggota Tim:
@@ -16,7 +13,7 @@ Ayi Rahayu (9.046.DB2025)
 
 Nasri Angga Ari Pratama Putra (10.003.DB2025)
 
-Ulandari (10.041.DB2025)
+**Ulandari (10.041.DB2025)**
 
 Dalam tugas ini, kami akan **menganalisis proyek Green Finance** berbasis Python melalui berbagai dataset multidimensi. Kami berharap analisis ini dapat memberikan kontribusi nyata dalam mendukung transisi energi bersih di Indonesia.
 
@@ -74,80 +71,25 @@ Meskipun banyak proyek hijau digagas, tantangannya adalah:
 
 Berikut adalah ringkasan output dari 7 soal utama dan 1 bonus Machine Learning:
 
-### 📌 Soal 1: Efisiensi Emisi PLTS
-```
-PLTS-NTT-001: 0.52 (High)
-PLTS-JATIM-001: 0.45 (Low)
-PLTS-SULSEL-002: 0.60 (High)
-```
-
-### 📌 Soal 2: Rata-rata CO₂ PLTM
-```
-Average CO2 Reduction for PLTM Projects: 36,500 tons CO2e
-```
-
-### 📌 Soal 3: Status Sosial Proyek (Input Loop)
-```
-Enter Project_ID: PLTM-SUMUT-003
-Land Status: Swasta, Konflik: Medium
-```
-
-### 📌 Soal 4: Filter Proyek Berisiko Rendah
-```
-PLTS-JATIM-001
-PLTM-SULSEL-002
-```
-
-### 📌 Soal 5: Total Investasi Lokasi Efisien
-```
-Total Investment: 895.70 billion Rp
-```
-
-### 📌 Soal 6: Fungsi dengan Error Handling
-```
-PLTM-KALTIM-001: Cannot compute (Zero Investment)
-```
-
-### 📌 Soal 7: Rata-rata Output Energi
-```
-Average Energy Output: 21,500 kWh
-```
-
-### 🎁 Bonus ML: Prediksi Daya Tarik Investasi
-```
-Model Accuracy: 0.87
-Prediction: High
-```
-
 ---
 
 ## 📈 Outcome dari Tugas Ini
 
-### 1. Pemahaman Green Finance
-Kami memahami bagaimana mengukur dampak lingkungan, sosial, dan ekonomi dalam proyek hijau.
+Setiap soal menunjukkan analisis data konkret:
 
-### 2. Penguasaan Python Tingkat Menengah
-- `if-else`, `for`, `while`
-- List & Dictionary
-- Modularisasi & fungsi
-- Error Handling (`try-except`)
-- Scikit-learn (Decision Tree)
-
-### 3. Produk Digital: Alat Evaluasi Proyek Hijau
-- Analisis otomatis lima dimensi proyek
-- Klasifikasi dan rekomendasi proyek layak
-- Reusable dan fleksibel
-
-### 4. Kontribusi terhadap Transisi Energi Nasional
-- Mendorong proyek hijau dengan data yang kuat
-- Mendukung kebijakan pembangunan berkelanjutan
-
----
+- Soal 1: Menghitung efisiensi CO₂ per juta rupiah proyek PLTS
+- Soal 2: Rata-rata CO₂ dari proyek PLTM
+- Soal 3: Cek status sosial proyek melalui input interaktif
+- Soal 4: Menyaring proyek berdaya tarik tinggi & konflik rendah
+- Soal 5: Menghitung total investasi lokasi efisien
+- Soal 6: Fungsi modular dengan error handling pembagian nol
+- Soal 7: Rata-rata output energi dengan pengecekan data hilang
+- Bonus ML: Prediksi daya tarik investasi proyek baru
 
 ## 🧪 Metode yang Digunakan
 
 ### 1. 📊 Data Preprocessing
-- Membaca file `.xlsx` dari 5 dimensi
+- Pandas + Membaca file `.xlsx` dari 5 dimensi
 - Merge data berdasarkan `Project_ID`
 - Cleaning dan standardisasi
 
@@ -156,16 +98,15 @@ Kami memahami bagaimana mengukur dampak lingkungan, sosial, dan ekonomi dalam pr
 - Modularisasi kode analitik
 
 ### 3. 🛡️ Error Handling
-- Menangani pembagian nol dan data kosong
+- Menangani pembagian nol dan data kosong agar program tetap berjalan
 
-### 4. 🌳 Machine Learning
+### 4. 🌳 Machine Learning (Bonus)
 - Decision Tree Classifier
-- Fitur: `GDP_Growth`, `CO2_Reduction`, `Investment_Cost`
 
 ### 5. 📝 Dokumentasi & Pelaporan
-- Markdown & komentar kode
+- Markdown & jupyter
 - Transparan dan terstruktur
-
+  
 ---
 
 ## 💡 Mengapa Python?
@@ -178,25 +119,14 @@ Kami memahami bagaimana mengukur dampak lingkungan, sosial, dan ekonomi dalam pr
 
 ---
 
-## 🔧 Tools yang Digunakan
-
-| Library        | Fungsi Utama                                                                 |
-|----------------|-------------------------------------------------------------------------------|
-| `pandas`       | Manipulasi data Excel, merge, filtering                                      |
-| `numpy`        | Perhitungan numerik, rata-rata, agregasi                                     |
-| `matplotlib`   | Visualisasi data                                                             |
-| `scikit-learn` | Model Machine Learning untuk prediksi daya tarik investasi                   |
-| `Jupyter`      | Platform interaktif untuk dokumentasi, visualisasi, dan pelaporan terintegrasi |
-
----
-
 ## 🙏 Penutup
 
-Tugas ini menjadi pengalaman berharga bagi kami untuk:
+Tugas ini menjadi pengalaman berharga bagi saya untuk:
 - Menganalisis data proyek energi hijau
 - Meningkatkan skill teknis dan logika Python
 - Berkontribusi dalam Green Finance Indonesia
 
+---
 
 Terima kasih telah mengikuti perjalanan analisis kami! 🌱 🙌
 
@@ -212,6 +142,4 @@ Kelompok 1 Premium Batch 1 – ECO Techno Leaders
 3. Kementerian Energi dan Sumber Daya Mineral (ESDM). (2023). *Statistik Energi Baru Terbarukan Indonesia*.
 4. scikit-learn Developers. (2024). *Scikit-learn: Machine Learning in Python*. [https://scikit-learn.org/stable/](https://scikit-learn.org/stable/)
 5. pandas Development Team. (2024). *pandas: Powerful Python Data Analysis Toolkit*. [https://pandas.pydata.org](https://pandas.pydata.org)
-6. NumPy Developers. (2024). *NumPy: Fundamental package for scientific computing with Python*. [https://numpy.org](https://numpy.org)
-7. Hunter, J. D., et al. (2024). *Matplotlib: Visualization with Python*. [https://matplotlib.org](https://matplotlib.org)
-8. Dataset "Green Finance Data Analysis" diberikan oleh Program ECO Techno Leaders Premium Batch 1 (2025).
+6. Dataset "Green Finance Data Analysis" diberikan oleh Program ECO Techno Leaders Premium Batch 1 (2025).
