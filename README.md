@@ -17,7 +17,7 @@ Nasri Angga Ari Pratama Putra (10.003.DB2025)
 
 Dalam tugas ini, kami akan **menganalisis proyek Green Finance** berbasis Python melalui berbagai dataset multidimensi. Kami berharap analisis ini dapat memberikan kontribusi nyata dalam mendukung transisi energi bersih di Indonesia.
 
-🔍 Mari kita mulai petualangan data ini bersama, dan lihat bagaimana Python bisa menjadi alat bantu strategis dalam mendukung Green Finance di Indonesia!
+🔍 Mari kita mulai perjalanan data ini bersama, dan lihat bagaimana Python bisa menjadi alat bantu strategis dalam mendukung Green Finance di Indonesia!
 
 ---
 
