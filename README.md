@@ -69,7 +69,7 @@ Meskipun banyak proyek hijau digagas, tantangannya adalah:
 
 ## ✅ Output Tugas Green Finance
 
-Berikut adalah ringkasan output dari 7 soal utama dan 1 bonus Machine Learning:
+Berikut adalah output dari 7 soal utama dan 1 bonus Machine Learning:
 ### [klik dan lihat dengan lengkap di sini😊](https://github.com/ulanndari/green_finance_assessment/blob/main/JUPITER/assessment.ipynb?raw=true)
 ---
 
