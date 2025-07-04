@@ -70,7 +70,7 @@ Meskipun banyak proyek hijau digagas, tantangannya adalah:
 ## ✅ Output Tugas Green Finance
 
 Berikut adalah ringkasan output dari 7 soal utama dan 1 bonus Machine Learning:
-### [klik](https://github.com/ulanndari/green_finance_assessment/blob/main/JUPITER/assessment.ipynb?raw=true)
+### [klik dan lihat dengan lengkap di sini😊](https://github.com/ulanndari/green_finance_assessment/blob/main/JUPITER/assessment.ipynb?raw=true)
 ---
 
 ## 📈 Outcome dari Tugas Ini
@@ -135,12 +135,4 @@ Terima kasih telah mengikuti perjalanan analisis kami! 🌱 🙌
 Salam hijau,
 Kelompok 1 Premium Batch 1 – ECO Techno Leaders
 
-##### "Kami berharap laporan ini tidak hanya menjadi bagian dari pembelajaran, tetapi juga memberi inspirasi untuk pengembangan sistem evaluasi Green Finance yang lebih baik di masa depan."😊
-
-## 📚 Referensi
-
-1. Otoritas Jasa Keuangan (OJK). (2017). *Peraturan OJK No. 60/POJK.04/2017 tentang Penerbitan dan Persyaratan Efek Bersifat Utang Berwawasan Lingkungan (Green Bond)*. [https://www.ojk.go.id](https://www.ojk.go.id)
-2. Pemerintah Republik Indonesia. (2021). *Peraturan Presiden No. 98 Tahun 2021 tentang Penyelenggaraan Nilai Ekonomi Karbon (NEK)*.
-3. Kementerian Energi dan Sumber Daya Mineral (ESDM). (2023). *Statistik Energi Baru Terbarukan Indonesia*.
-4. pandas Development Team. (2024). *pandas: Powerful Python Data Analysis Toolkit*. [https://pandas.pydata.org](https://pandas.pydata.org)
-5. Dataset "Green Finance Data Analysis" diberikan oleh Program ECO Techno Leaders Premium Batch 1 (2025).
+##### "Kami berharap laporan ini tidak hanya menjadi bagian dari pembelajaran, tetapi juga memberi inspirasi untuk pengembangan sistem evaluasi Green Finance yang lebih baik di masa depan."☺️
