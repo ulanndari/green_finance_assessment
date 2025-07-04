@@ -142,6 +142,5 @@ Kelompok 1 Premium Batch 1 – ECO Techno Leaders
 1. Otoritas Jasa Keuangan (OJK). (2017). *Peraturan OJK No. 60/POJK.04/2017 tentang Penerbitan dan Persyaratan Efek Bersifat Utang Berwawasan Lingkungan (Green Bond)*. [https://www.ojk.go.id](https://www.ojk.go.id)
 2. Pemerintah Republik Indonesia. (2021). *Peraturan Presiden No. 98 Tahun 2021 tentang Penyelenggaraan Nilai Ekonomi Karbon (NEK)*.
 3. Kementerian Energi dan Sumber Daya Mineral (ESDM). (2023). *Statistik Energi Baru Terbarukan Indonesia*.
-4. scikit-learn Developers. (2024). *Scikit-learn: Machine Learning in Python*. [https://scikit-learn.org/stable/](https://scikit-learn.org/stable/)
-5. pandas Development Team. (2024). *pandas: Powerful Python Data Analysis Toolkit*. [https://pandas.pydata.org](https://pandas.pydata.org)
-6. Dataset "Green Finance Data Analysis" diberikan oleh Program ECO Techno Leaders Premium Batch 1 (2025).
+4. pandas Development Team. (2024). *pandas: Powerful Python Data Analysis Toolkit*. [https://pandas.pydata.org](https://pandas.pydata.org)
+5. Dataset "Green Finance Data Analysis" diberikan oleh Program ECO Techno Leaders Premium Batch 1 (2025).
